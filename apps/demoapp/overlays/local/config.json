@@ -1,0 +1,10 @@
+{
+  "appName": "demoapp",
+  "userGivenName": "demoapp",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/demoapp/overlays/local",
+  "srcRepoURL": "https://github.com/codefresh-kubecon/autopilot-demo.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
